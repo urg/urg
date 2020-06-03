@@ -48,6 +48,3 @@ When I started with PeerJ, Scalr was used for many aspects of the PeerJ MVP. Due
   * Scalr had it own ability to define metrics used for load balancing. Migration to using the AWS metrics was fairly simple, however, did involve testing in the load environment.
 
 I left PeerJ before the entire migration was complete, however, the majority of the work had been complete and it was well on track to being a successful migration and had the potential to reduce costs by 20%.
-
-
-

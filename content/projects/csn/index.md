@@ -5,7 +5,7 @@ draft: false
 hideLastModified: true
 keepImageRatio: true
 tags: ["CSharp", ".Net Core", "Azure", "Asp.Net"]
-summary: "Investaging the UK Energy Market"
+summary: "Investigating the UK Energy Market"
 summaryImage: "images/csn.png" 
 showInMenu: false
 ---
