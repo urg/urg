@@ -17,15 +17,15 @@ showInMenu: false
 
 ## Company Intro:
 
-[CSN Energy](https://www.csnenergy.com/en/) offers a SAAS whitelabel solution to French Energy Suppliers.
-
-## Project Details:
-
-I was hired to investigate and potentially implementent the expansion of the French product into the UK market. I worked closely with the UK product owner to understand the UK Market and architect a technical solution. I created a working website demo of the solution we planned on offering and together with the senior UK team, did several product demostrations to UK energy suppliers.
+[CSN Energy](https://www.csnenergy.com/en/) offers a SAAS white-label solution to French Energy Suppliers.
 
 ## Team Composition & My Role:
 
-I was hired as the CTO for the UK company and worked closely with the UK MD and the UK product owner. I hired 2 developers to work on the project, however, they started towards the end of my time there and so did the majority of the work on the product myself.
+I was hired as the CTO for the UK company and worked closely with the UK MD and the UK product owner. I hired 2 developers to work on the project, however, they started towards the end of my time there and so I did the majority of the work on the product myself.
+
+## Project Details:
+
+I was hired to investigate and potentially implement the expansion of the French product into the UK market. I worked closely with the UK product owner to understand the UK Market and architect a technical solution. I created a working website demo of the solution we planned on offering and together with the senior UK team, did several product demonstrations to UK energy suppliers.
 
 ## Demo Website:
 **Note that all data below is randomly generated and not actual customer data**
@@ -44,3 +44,4 @@ I was hired as the CTO for the UK company and worked closely with the UK MD and 
 ![](images/forecast.png)
 ![](images/forecast-details.png)
 ![](images/aged-debt.png)
+

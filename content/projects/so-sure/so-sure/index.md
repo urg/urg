@@ -1,5 +1,5 @@
 ---
-title: "so-sure"
+title: "so-sure: MVP"
 date: 2019-06-03T21:51:13+01:00
 draft: false
 hideLastModified: true
@@ -20,6 +20,8 @@ showInMenu: false
 so-sure is a MGA offering mobile phone insurance direct to consumers.
 
 ## Project Details:
+
+
 
 My time at so-sure went through several stagees.
 

@@ -17,15 +17,16 @@ showInMenu: false
 
 ## Company Intro:
 
-[Affitise](https://affitise.com) is a whitelabel site that allows websites to easily embed voucher codes on their website and gain affiliate comissions on use. This allows the website owner to provide adverts to their users that are actually useful.
-
-## Project Details:
-
-Affitise is a startup and I was tasked with creating a MVP from concept. I worked with the founder to improve the backend systems and create a few more javascript widget sizes. The company was eventually sold to another player in the market.
+[Affitise](https://affitise.com) is a white-label site that allows websites to easily embed voucher codes on their website and gain affiliate commissions on use. This allows the website owner to provide adverts to their users that are actually useful.
 
 ## Team Composition & My Role:
 
-I was the sole developer on the project and created the website and javascript widgets for use in embedding.
+I was brought onboard as a potential co-founder for Affitise. I was the sole developer on the project.
+
+## Project Details:
+
+I was tasked with creating a MVP from concept. I worked with the founder to create and improve the backend systems and well as created the javascript code for embedding widgets on customer sites. The company was successfully sold to another business in the market.
+
 
 ## Website Screenshots:
 
@@ -36,3 +37,4 @@ I was the sole developer on the project and created the website and javascript w
 ![](images/feeds.png)
 ![](images/new-feed.png)
 ![](images/api.png)
+`
