@@ -5,7 +5,7 @@ draft: false
 hideLastModified: true
 keepImageRatio: true
 tags: ["Node.js", "Sails.js", "MongoDB", "AWS", "Ansible", "Terraform"]
-summary: "Side Project"
+summary: "Social Media Profile Images"
 summaryImage: "images/1.jpg" 
 showInMenu: false
 ---

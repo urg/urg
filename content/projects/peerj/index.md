@@ -4,7 +4,7 @@ date: 2019-06-03T21:51:13+01:00
 draft: false
 hideLastModified: true
 keepImageRatio: true
-tags: ["PHP", "Symfony", "Puppet", "Elasticsearch", "AWS", "Varnish", "Redis", "Ansible", "MySQL", "Aurora", "Graylog", "Hive"]
+tags: ["PHP", "Symfony", "Puppet", "Elasticsearch", "AWS", "Varnish", "Redis", "Ansible", "MySQL", "Aurora", "Graylog", "Hive", "Python"]
 summary: "Helping to create a marketplace leader"
 summaryImage: "images/peerj.png" 
 showInMenu: false
@@ -35,6 +35,10 @@ I setup & configured varnish caching (including automating cache invalidation & 
 
 Initially, we used Google Analytics (GA) to publicly report on the individual page level metrics (Page Views, Pdf Downloads), however, we quickly notices issues with GA where the metrics were decreasing, or having large 1 off jumps (followed by a decrease back to original levels). I tried adding logic to prevent these situations from occurring, but it became apparent that even with those fixes, GA was not a viable long term solution. I created a EMR cluster and used Hadoop & Hive to query the log files to be able to retrieve the same metrics. As part of this process, I created IP & Bot exclusions to ensure the metrics were largely consistent with the previous data. Additionally, I architected the system so the cluster could be brought online for an hour or 2 each night to gather just the recent metrics for cost savings. This project was critical in maintaining trust in the PeerJ site by its community and resulted in no further complaints about page level metrics.
 
+#### Document collaboration
+
+PeerJ decided on testing a new product to help academics collaborate together on documents. This system was initially based on file sharing and after investigation, I integrated Seafile into the PeerJ platform. Additionally, I made various changes to the api and adapted the QT application for branding. The product made it into an alpha release, but ultimately, customer demand for the product was not there and the project was ended.
+
 #### Migration away from Scalr
 
 When I started with PeerJ, Scalr was used for many aspects of the PeerJ MVP. Due to time constraints, I continued along that path, using Scalr heavily for job orchestration, scaling servers based on load, deployment and database replication. However, due to both cost savings and occasional issues with their job orchestration engine, I decided to start a long term project to migrate away from Scalr. There were several parts to the project:
@@ -48,3 +52,8 @@ When I started with PeerJ, Scalr was used for many aspects of the PeerJ MVP. Due
   * Scalr had it own ability to define metrics used for load balancing. Migration to using the AWS metrics was fairly simple, however, did involve testing in the load environment.
 
 I left PeerJ before the entire migration was complete, however, the majority of the work had been complete and it was well on track to being a successful migration and had the potential to reduce costs by 20%.
+
+#### Document Generation
+
+One of the core components of PeerJ is creating a review pdf that combines the main document with all of the supporting figures and images for the reviewers to perform the peer review. The systems has to handle documents in various formats and sizes and must work accurately. I was involved in making sure the system was robust and used a variety of open source tools and paid apis to perform the various resizing and conversations. 
+
