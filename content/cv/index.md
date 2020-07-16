@@ -9,7 +9,8 @@ showInMenu: true
 ---
 
 ## Availablity
-I'm available immediately.
+
+I'm currently in a contract and expect to be available mid-Sept 2020.
 
 ## CV
 
