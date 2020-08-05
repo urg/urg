@@ -10,7 +10,7 @@ showInMenu: true
 
 ## Availablity
 
-I'm currently in a contract and expect to be available mid-Sept 2020.
+I'm currently in a contract and expect to be available late Sept/early Oct 2020.
 
 ## CV
 
