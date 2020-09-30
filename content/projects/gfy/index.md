@@ -4,7 +4,7 @@ date: 2019-06-03T21:51:13+01:00
 draft: false
 hideLastModified: true
 keepImageRatio: true
-tags: ["React", "Gatsby", "Netlify"]
+tags: ["React", "Gatsby", "Netlify", "Redux"]
 summary: "Digitising a Debt Calculator"
 summaryImage: "images/gfy.png" 
 showInMenu: false
