@@ -4,7 +4,7 @@ date: 2020-09-20T21:51:13+01:00
 draft: false
 hideLastModified: true
 keepImageRatio: true
-tags: ["Node.js", "React", "Firebase", "Gatsby", "Redux"]
+tags: ["Node.js", "React", "Firebase", "Gatsby", "Redux", "AWS", "Lambda", "Serverless"]
 summary: "Application Tracking for Job Seekers"
 summaryImage: "images/1.png" 
 showInMenu: false
