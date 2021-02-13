@@ -22,7 +22,7 @@ so-sure is a startup MGA offering mobile phone insurance direct to consumers.
 
 ## Team Composition & My Role:
 
-I was the first technical hire at so-sure. I created the majority of the backend systems and api, along with all of the infrastructure. I hired the technical team, including 2 native app developers, 1 front-end dev, & 2 backend devs. I worked closely with the MD, Head of Product, & Head of Marketing as well as the underwriter and the claims team. 
+I was the first technical hire at so-sure. I created the majority of the backend systems and api, along with all of the infrastructure. I hired the technical team, including 2 native app developers, 1 front-end dev, & 2 backend developers. I worked closely with the MD, Head of Product, & Head of Marketing as well as the underwriter and the claims team. 
 
 ## Project Details:
 
