@@ -10,7 +10,7 @@ showInMenu: true
 
 ## Availablity
 
-I'm currently in a contract and expect to be available beginning of May 2021.
+I'll be available from 7th June 2021.
 
 ## CV
 
