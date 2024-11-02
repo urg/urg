@@ -10,7 +10,7 @@ showInMenu: true
 
 ## Availablity
 
-I'll be available from 1st March 2024.
+I'll be available from 1st November 2024.
 
 ## CV
 
@@ -20,7 +20,7 @@ For contracts, I'm open to most opportunities.
 
 For permanent roles, I'm looking for a role with a good team and to work for a company where I appreciate the product, the product serves a useful purpose and the business model appears to be commercially viable. As most of the above is subjective, I'm happy to start a discussion to explore possibilities.
 
-[Permanent CV](files/patrick_mcandrew_cv_it_perm.pdf)
+[Permanent CV](files/patrick_mcandrew_cv_general_perm.pdf)
 
 
 
