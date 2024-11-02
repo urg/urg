@@ -76,5 +76,5 @@ I created a suite of JMeter tests, configured via CSV files to simulate differen
 
 ## Videos
 
-I used ClipChamp to create various instructional videos demonstrating how to use Postman to call different endpoints for clients. Additionally, I produced an overview demo video showcasing Lightspeed and its full functionality. This demo was featured at the [Digital Jersey launch event](https://www.digital.je/news-events/digital-events/ewg-lightspped-api-launch-event/). A short clip from the demo is available [here]((videos/Lightspeed-Demo-Clip.mp4).
+I used ClipChamp to create various instructional videos demonstrating how to use Postman to call different endpoints for clients. Additionally, I produced an overview demo video showcasing Lightspeed and its full functionality. This demo was featured at the [Digital Jersey launch event](https://www.digital.je/news-events/digital-events/ewg-lightspped-api-launch-event/). A short clip from the demo is available [here](videos/Lightspeed-Demo-Clip.mp4).
 
