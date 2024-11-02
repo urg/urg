@@ -74,3 +74,7 @@ The unit tests were executed as a CI job on pull requests to the main branch. Th
 I created a suite of JMeter tests, configured via CSV files to simulate different loads. The test suite included three different personas that ran various scenarios. Each line in the CSV could specify a persona and a throughput limit to adhere to defined rate limits. The clients required MTLS certificates, OAuth logins, and JWS signatures for their requests, all implemented in JMeter. Additionally, 429 responses were not considered errors; they were renamed as ‘429: name’ to facilitate a clearer display in JMeter outputs and for separate tracking.
 
 
+## Videos
+
+I used ClipChamp to create various instructional videos demonstrating how to use Postman to call different endpoints for clients. Additionally, I produced an overview demo video showcasing Lightspeed and its full functionality. This demo was featured at the [Digital Jersey launch event](https://www.digital.je/news-events/digital-events/ewg-lightspped-api-launch-event/). A short clip from the demo is available [here]((videos/Lightspeed-Demo-Clip.mp4).
+
