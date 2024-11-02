@@ -142,7 +142,7 @@ params:
     #    link: username
     #    title: Instagram
     # option to specify the copyright in the footer
-    copyright: Patrick McAndrew - 2020
+    copyright: Patrick McAndrew - 2020-2024
 
 ###################################################################
 ################## multilanguage support options ##################
